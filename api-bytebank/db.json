@@ -34,9 +34,30 @@
       "data": "05/01/2023",
       "mes": "Janeiro",
       "id": 5
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "03/07/2023",
+      "mes": "Julho",
+      "id": 6
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "03/07/2023",
+      "mes": "Julho",
+      "id": 7
+    },
+    {
+      "transacao": "Transferência",
+      "valor": "80",
+      "data": "03/07/2023",
+      "mes": "Julho",
+      "id": 8
     }
   ],
   "saldo": {
-    "valor": 3750
+    "valor": 3510
   }
 }
